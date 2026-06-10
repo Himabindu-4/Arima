@@ -1,5 +1,3 @@
-# README.md
-
 # Household Power Consumption Forecasting Using Exponential Smoothing and ARIMA
 
 ## Project Overview
